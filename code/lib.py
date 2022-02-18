@@ -22,3 +22,5 @@ def get_stopwords(path="../data/stopwords-de.txt"):
     with open(path, encoding="utf-8") as f:
         stopwords = f.read().split()
     return set(stopwords)
+
+
