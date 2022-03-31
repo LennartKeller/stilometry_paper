@@ -9,7 +9,6 @@ so/
 models/
 old/
 data/
-*.ipynb
 .DS_Store
 __pycache__/
 *.py[cod]
