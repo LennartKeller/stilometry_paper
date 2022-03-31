@@ -1,4 +1,10 @@
 # Byte-compiled / optimized / DLL files
+code/bert-nsp/
+code/longformer-sf/
+code/nsp_classif/
+code/sf_story/
+code/so_classif/
+code/test_pics/
 so/
 models/
 old/
